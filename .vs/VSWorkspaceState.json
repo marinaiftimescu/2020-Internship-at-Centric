@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DoFest",
+    "\\DoFest\\DoFest.Business",
+    "\\DoFest\\DoFest.Business\\Activities",
+    "\\DoFest\\DoFest.Business\\Activities\\Services",
+    "\\DoFest\\DoFest.Business\\Activities\\Services\\Implementations",
+    "\\DoFest\\DoFest.Entities",
+    "\\DoFest\\DoFest.Entities\\Activities",
+    "\\DoFest\\DoFest.Persistence",
+    "\\DoFest\\DoFest.Persistence\\Activities",
+    "\\DoFest\\DoFest.Persistence\\Authentication",
+    "\\DoFest\\DoFest.Persistence\\BucketLists"
+  ],
+  "SelectedNode": "\\DoFest\\DoFest.Persistence\\Authentication\\UserRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
